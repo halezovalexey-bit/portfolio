@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Данные и кэш
+*.sqlite3
+*.jsonl
+*.db
+logs/
+data/
+venv/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
